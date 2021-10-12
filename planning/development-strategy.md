@@ -12,7 +12,7 @@ A simple little website about trees.
 
 > "as a user can read the title of the page"
 
-_Tahmina Rasoli's personal website_
+`Tahmina Rasoli's personal website`
 
 ### Interface: Site Title
 
@@ -30,7 +30,7 @@ _Tahmina Rasoli's personal website_
 
 > "As a user I can read an introduction to this project"
 
-This is a personal website that contains information about a person and his or her works and projects.
+This is a personal website that contains information about a person.
 
 ### Interface: Introduction
 
@@ -68,34 +68,34 @@ Some more links for viewers who want to read more about this person.
   - [ ] CSS: a class to position the aside
   - [ ] CSS: a class to style the text
 
-
 ### Branches and Issues
-* Planning 
+
+- Planning
   - backlog
   - design
   - dev-stra
   - communication planing
 
-* Home page
+- Home page
   - HTML
   - CSS
 
-* about
+- about
   - HTML
   - CSS
 
-* Projects
+- Projects
   - HTML
   - CSS
 
-* contact
+- contact
   - HTML
   - CSS
 
-* sidebar
+- sidebar
   - HTML
   - CSS
 
-* footer
+- footer
   - HTML
   - CSS

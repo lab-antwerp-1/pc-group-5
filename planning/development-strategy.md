@@ -23,6 +23,9 @@ A simple little website about trees.
   - (_you might add an `html` and `css` label to this issue_)
   - [ ] HTML: a header element with the title
   - [ ] CSS: a class to center the title
+- Header with the person's photo
+  - [ ] HTML: an image
+  - [ ] CSS: use CSS border-radius Property to make the photo round
 
 ---
 

@@ -34,4 +34,8 @@
 
 - **Home Page**
   - as a user will smile (or roll their eyes) when they read our page
-  - [ ] _there are some silly animations_
+    - [ ] _there are some silly animations_
+  - As a user I want to have a page to learn about this person's projects.
+    - [ ] _there is a page that lists all the most important works of the person.
+  - As a user I want to have the person's contact information.
+    - [ ] _there is a page that contains all the contact information of the person.

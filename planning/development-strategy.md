@@ -68,6 +68,17 @@ Some more links for viewers who want to read more about this person.
   - [ ] CSS: a class to position the aside
   - [ ] CSS: a class to style the text
 
+
+## Footer
+
+### Interface: Footer
+
+- An aside with links for digging deeper.
+  - [ ] HTML: some helpful text and links to social media profiles
+  - [ ] CSS: a class to position the footer
+  - [ ] CSS: a class to style the text
+  - [ ] CSS: a class to style links
+
 ### Branches and Issues
 
 - Planning

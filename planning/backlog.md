@@ -11,7 +11,7 @@
     - [ ] _there is a prominent title at the top of the web page_
   - As a user I can read an introduction to this project
     - [ ] _there are information cards that describing the project's
-          goals_
+          more about the person_
   - As a user I can learn about the person
     - [ ] _there is a main text in the page with helpful info and links_
   - As a user I can learn even more about the person

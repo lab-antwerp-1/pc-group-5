@@ -1,4 +1,12 @@
-# (project name)
+# Personal Website
+
+In this project we are going to create a personal website.
+This website will contatin the most important information about a person like:
+
+- A short bio
+- Projects and works
+- Contact information
+- Links to other pages and social media profiles
 
 <!-- describe your project -->
 

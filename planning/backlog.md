@@ -22,11 +22,11 @@
 > will complete the user experience, but are not necessary
 
 - **Home Page**
-  - As a user I can navigate the web page from a sidebar
+  - As a user I can navigate the web pages from a sidebar
     - [ ] _there is a sidebar at the right side of the page with links to the different
           sections_
   - As a user I can contact the person to learn more about him/her
-    - [ ] _there is a footer with contact info_
+    - [ ] _there is a footer with links to the person's social media profiles_
 
 ## Could Haves
 

@@ -10,12 +10,13 @@
   - As a user I can read the title of the page
     - [ ] _there is a prominent title at the top of the web page_
   - As a user I can read an introduction to this project
-    - [ ] _there are information cards that describing the project's
-          more about the person_
+    - [ ] _there is a introduction text about the website_
+    As a user I want to see the full name of the person
+    - [ ] _there is person full name at te head of the web page_
   - As a user I can learn about the person
-    - [ ] _there is a main text in the page with helpful info and links_
+    - [ ] _there is a main text in the page with small introduction about the person_
   - As a user I can learn even more about the person
-  - [ ] _there is an aside with links for redirecting to other pages._
+  - [ ] _there there are information cards with links for redirecting to other pages._
 
 ## Should Haves
 
